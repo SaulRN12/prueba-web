@@ -1,0 +1,27 @@
+html{
+  background-color:black;
+  font-family: cursive;
+  margin-left:25%;
+  margin-right:25%;
+}
+h1{
+  
+  font-family: cursive;
+  color: red;
+  text-align:center;
+}
+body{
+  color:white;
+}
+#img-title {
+  position: absolute fixed;
+  margin: 0 auto;
+  z-index: -1;
+  display: block;
+   
+
+}
+#cursor {
+  position: relative;
+  
+}
